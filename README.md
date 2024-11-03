@@ -14,6 +14,16 @@ This project implements a human detection and counting system using the YOLO (Yo
  - OpenCV
  - NumPy
  - Matplotlib
+ -
+##Download YOLO Weights and Configuration
+
+Download the YOLOv4 weights and configuration files from the following links:
+
+YOLOv4 weights
+
+YOLOv4 configuration
+
+Place these files in the /yolo/ directory of the cloned repository.
 
 #You can install the required Python packages using pip:
 ```bash
